@@ -110,14 +110,3 @@ while True:
                     with open('C:\Users\Sal\Desktop\PythonPract\Web Scraping\CongrSrape\EdgeList113th.csv','a') as f:
                         write = csv.writer(f)
                         write.writerow((i,elem))
-                        
-    
-                    
-            
-
-
-
-
-
-
-
